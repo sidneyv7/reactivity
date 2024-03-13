@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "start",
+            "type": "npm",
+            "workingDir": "C:/Users/Asra/RVDev/rvdev/",
+            "command": "run",
+            "scripts": "start"
+        }
+    ]
+}
